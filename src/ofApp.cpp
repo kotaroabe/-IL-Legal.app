@@ -2,6 +2,8 @@
 
 /*
  
+ let's do this!
+ 
  About recording a video, I am simply using Quicktime, LadioCast and Soundflowerbed to capture.
  
  */
